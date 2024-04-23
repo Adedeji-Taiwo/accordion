@@ -2,15 +2,15 @@
  In this project, we'll create a sleek, stylish and responsive accordion component using React and Tailwind CSS.
 
 - Live link👇:
-
+https://sleek-accordion.vercel.app/
 
 - If you want to learn how to create this snip please follow this tutorial👇:
 
 
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Adedeji-Taiwo/accordion/blob/main/src/assets/shots/img_large.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/accordion/blob/main/src/assets/shots/img_small.png)
+
 
 
 
@@ -60,4 +60,4 @@ Open your browser and navigate to `http://localhost:5173` to see the starter tem
 The font used in this starter template is Poppins from [Google Fonts](https://fonts.google.com/). Feel free to replace it with any other font of your choice.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Adedeji-Taiwo/accordion/blob/main/LICENSE) file for details.
