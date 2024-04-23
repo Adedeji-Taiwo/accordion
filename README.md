@@ -5,6 +5,7 @@
 https://sleek-accordion.vercel.app/
 
 - If you want to learn how to create this snip please follow this tutorial👇:
+https://youtu.be/By0jQfp6ZZs
 
 
 
